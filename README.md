@@ -111,6 +111,3 @@ dbt docs serve
 ## Author
 
 **John Naoum**
-
-- GitHub: https://github.com/johnnaoum-creator
-- Project Repository: https://github.com/johnnaoum-creator/dbt-data-warehouse-project
