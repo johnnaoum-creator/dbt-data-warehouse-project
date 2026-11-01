@@ -1,0 +1,1 @@
+select salary from {{ ref('OBT') }} where salary < 0;

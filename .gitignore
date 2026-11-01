@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+
+# dbt generated files
+target/
+dbt_packages/
+logs/
+partial_parse.msgpack
+
+# Sensitive configuration
+profiles.yml
+.env
